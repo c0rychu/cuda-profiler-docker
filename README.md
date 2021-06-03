@@ -1,7 +1,7 @@
 # cuda-profiler-docker
 
 This is a docker container of NVIDIA nsight and nvvp. It allows you to run nsight and nvvp GUIs on macOS.
-It is build by running `apt install nsight-systems nsight-compute nvidia-cuda-toolkit` in a ubuntu docker image.
+It is built by running `apt install nsight-systems nsight-compute nvidia-cuda-toolkit` in a ubuntu docker image.
 
 ## Setup
 1. Install Docker: https://www.docker.com/products/docker-desktop
